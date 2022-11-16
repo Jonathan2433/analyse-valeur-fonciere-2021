@@ -1,0 +1,12 @@
+name: data_viz_map
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+  - plotly
+  - jupyter
+  - geopandas
